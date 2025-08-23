@@ -78,6 +78,23 @@ It includes sample `.pcap` files, applied filters, detailed analysis, and docume
 
 ---
 
+
+## 📸 Screenshots
+
+### Wireshark 
+![HTTP traffic](images/WIRESHARK.png)
+
+### HTTP Traffic
+![HTTP traffic](images/http_filter.png)
+
+### DNS Query
+![DNS query](images/dns_query.png)
+
+### TCP Handshake
+![TCP Handshake](images/tcp_handshake.png)
+
+---
+
 ## ⚡ Future Work
 
 | Planned Feature | Description |
