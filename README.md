@@ -82,7 +82,7 @@ It includes sample `.pcap` files, applied filters, detailed analysis, and docume
 ## 📸 Screenshots
 
 ### Wireshark 
-![HTTP traffic](images/WIRESHARK.png)
+![WIRESHARK](images/WIRESHARK.png)
 
 ### HTTP Traffic
 ![HTTP traffic](images/http_filter.png)
