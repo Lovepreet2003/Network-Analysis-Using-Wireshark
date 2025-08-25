@@ -84,6 +84,9 @@ It includes sample `.pcap` files, applied filters, detailed analysis, and docume
 ### Wireshark 
 ![WIRESHARK](images/WIRESHARK.png)
 
+### Packet Capture
+![PACKET CAPTURE](images/PACKETCAPTURE.png)
+
 ### HTTP Traffic
 ![HTTP traffic](images/http_filter.png)
 
